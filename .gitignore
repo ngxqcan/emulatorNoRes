@@ -1,0 +1,26 @@
+# Visual Studio 2019/2022 generated files
+.vs/
+x64/
+Debug/
+Release/
+Win32/
+*.exe
+*.pdb
+*.ilk
+*.obj
+*.idb
+*.ipdb
+*.iobj
+*.res
+
+# Logs and Keys
+*.log
+rsa_key.bin
+server.pfx
+
+# Personal data (Do not upload)
+output.txt
+hesap*.txt
+
+# ImGui temporary files
+imgui.ini
